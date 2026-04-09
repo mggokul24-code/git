@@ -1,2 +1,6 @@
 this is a git course
-# this is from bug branch 
+ 
+num=int(input("enter num:"))
+# this is change from feature branch
+# this is git push
+# this is from bug branch
